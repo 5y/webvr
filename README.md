@@ -1,2 +1,2 @@
 # webvr
-webvr-sample
+webvr-sample using aframe
